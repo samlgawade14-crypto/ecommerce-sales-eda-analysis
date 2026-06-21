@@ -1,4 +1,12 @@
-## 💻 Most Used Languages
+## 📈 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samlgawade14-crypto&theme=tokyo-night)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samlgawade14-crypto&show_icons=true&theme=radical)
+
+## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samlgawade14-crypto&layout=compact&theme=radical)
 # E-Commerce Sales Exploratory Data Analysis (EDA)
