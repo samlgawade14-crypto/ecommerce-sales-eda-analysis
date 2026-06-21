@@ -1,14 +1,8 @@
-## 📈 GitHub Activity
+# 📊 E-Commerce Sales EDA Analysis Dashboard
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samlgawade14-crypto&theme=tokyo-night)
+## 🚀 Project Overview
+This project analyzes e-commerce sales data using Python and visualizes key business insights such as sales trends, category performance, and profit distribution.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samlgawade14-crypto&show_icons=true&theme=radical)
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samlgawade14-crypto&layout=compact&theme=radical)
 # E-Commerce Sales Exploratory Data Analysis (EDA)
 
 Author: Samruddhi Laxman Gawade
