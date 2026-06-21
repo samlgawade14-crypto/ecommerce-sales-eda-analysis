@@ -1,5 +1,11 @@
 # E-Commerce Sales Exploratory Data Analysis (EDA)
 
+Author: Samruddhi Laxman Gawade
+
+Internship Task: Exploratory Data Analysis (EDA) Project
+
+Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
 ## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on an E-Commerce Sales dataset to identify sales trends, profitability patterns, customer behavior, and regional performance using Python and data visualization techniques.
