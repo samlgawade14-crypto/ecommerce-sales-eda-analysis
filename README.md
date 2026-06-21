@@ -1,7 +1,7 @@
-## 📈 My GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samlgawade14-crypto&theme=react-dark)
+## 📊 Contribution Activity
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samlgawade14-crypto&theme=tokyo-night)
 # E-Commerce Sales Exploratory Data Analysis (EDA)
 
 Author: Samruddhi Laxman Gawade
