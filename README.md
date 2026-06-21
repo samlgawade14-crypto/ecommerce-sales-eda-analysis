@@ -1,6 +1,6 @@
-## 📊 Project Dashboard Preview
+## 📈 My GitHub Contributions
 
-![Dashboard Preview](images/category_sales.png)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=samlgawade14-crypto&theme=react-dark)
 
 # E-Commerce Sales Exploratory Data Analysis (EDA)
 
