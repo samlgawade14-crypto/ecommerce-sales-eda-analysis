@@ -1,11 +1,11 @@
 # E-Commerce Sales Exploratory Data Analysis (EDA)
 
-👨‍💻 Author
-Samruddhi Laxman Gawade
+# 👨‍💻 Author
+# Samruddhi Laxman Gawade
 GitHub: https://github.com/samlgawade14-crypto
 Internship Project: Data Analysis / EDA
 
- PROJECT OVERVIEW :
+#  PROJECT OVERVIEW :
 
 This project performs Exploratory Data Analysis (EDA) on an e-commerce sales dataset to uncover:
 
@@ -15,9 +15,10 @@ This project performs Exploratory Data Analysis (EDA) on an e-commerce sales dat
 ✔ Category performance
 ✔ Regional insights
 
-👉 Goal: Convert raw data into actionable business insights
+# 👉 Goal: Convert raw data into actionable business insights
 
-📸 DASHBOARD PREVIEW
+# 📸 DASHBOARD PREVIEW
+
 <p align="center"> <img src="images/category_sales.png" width="850"> </p>
 📊 CATEGORY CONTRIBUTION ANALYSIS
 <p align="center"> <img src="images/category_contribution.png" width="850"> </p>
@@ -27,18 +28,19 @@ This project performs Exploratory Data Analysis (EDA) on an e-commerce sales dat
 <p align="center"> <img src="images/state_sales.png" width="850"> </p>
 🔥 CORRELATION ANALYSIS
 <p align="center"> <img src="images/correlation_heatmap.png" width="850"> </p>
-🧠 PROBLEM STATEMENT
+
+# 🧠 PROBLEM STATEMENT
 
 Businesses struggle to understand large sales datasets and extract meaningful insights.
 
-This project helps answer:
+# This project helps answer:
 
 ✔ What sells the most?
 ✔ Which region performs best?
 ✔ Which category is most profitable?
 ✔ How do sales change over time?
 
-🛠️ TECH STACK
+# 🛠️ TECH STACK
 🐍 Python
 📦 Pandas
 🔢 NumPy
@@ -50,7 +52,8 @@ This project helps answer:
 📌 Features: 11
 📌 Missing Values: 0
 📌 Type: Structured transactional data
-📊 KEY ANALYSIS PERFORMED
+
+# 📊 KEY ANALYSIS PERFORMED
 
 ✔ Data Cleaning & Preprocessing
 ✔ Sales Distribution Analysis
@@ -62,7 +65,7 @@ This project helps answer:
 ✔ Customer Analysis
 ✔ Category Contribution Study
 
-🔍 KEY BUSINESS INSIGHTS
+# 🔍 KEY BUSINESS INSIGHTS
 
 🔥 Electronics is the highest revenue generator
 💰 Clothing has the highest profit margin
@@ -72,7 +75,7 @@ This project helps answer:
 👤 Top customers drive major revenue share
 📉 Weak correlation (0.24) between sales & profit
 
-💡 BUSINESS RECOMMENDATIONS
+# 💡 BUSINESS RECOMMENDATIONS
 
 ✔ Focus more on Electronics for revenue growth
 ✔ Expand Clothing category for profitability
@@ -107,7 +110,7 @@ pip install -r requirements.txt
 
 jupyter notebook
 
- LEARNING OUTCOMES :
+# LEARNING OUTCOMES :
 
 ✔ Real-world data analysis experience
 ✔ Data cleaning & preprocessing
@@ -115,7 +118,7 @@ jupyter notebook
 ✔ Data visualization mastery
 ✔ Professional GitHub project structuring
 
-🏁 FINAL CONCLUSION
+# 🏁 FINAL CONCLUSION
 
 This project transforms raw e-commerce data into clear business intelligence insights that support:
 
