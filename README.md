@@ -1,12 +1,11 @@
-E-COMMERCE SALES ANALYTICS DASHBOARD
-📊 Exploratory Data Analysis (EDA) Project
-👨‍💻 Author
+# E-Commerce Sales Exploratory Data Analysis (EDA)
 
+👨‍💻 Author
 Samruddhi Laxman Gawade
 GitHub: https://github.com/samlgawade14-crypto
 Internship Project: Data Analysis / EDA
 
-🎯 PROJECT OVERVIEW
+ PROJECT OVERVIEW :
 
 This project performs Exploratory Data Analysis (EDA) on an e-commerce sales dataset to uncover:
 
@@ -81,8 +80,8 @@ This project helps answer:
 ✔ Improve regional marketing in top states
 ✔ Optimize pricing strategy for higher profit
 ✔ Build loyalty programs for top customers
-"
-📁 PROJECT STRUCTURE
+
+# 📁 PROJECT STRUCTURE
 Ecommerce_Sales_EDA/
 │
 ├── data/
@@ -98,9 +97,8 @@ Ecommerce_Sales_EDA/
 ├── EDA_Analysis.ipynb
 ├── requirements.txt
 └── README.md
-"
 
-🚀 HOW TO RUN THIS PROJECT
+# HOW TO RUN THIS PROJECT
 git clone https://github.com/samlgawade14-crypto/ecommerce-sales-eda-analysis
 
 cd ecommerce-sales-eda-analysis
@@ -108,7 +106,8 @@ cd ecommerce-sales-eda-analysis
 pip install -r requirements.txt
 
 jupyter notebook
-📌 LEARNING OUTCOMES
+
+ LEARNING OUTCOMES :
 
 ✔ Real-world data analysis experience
 ✔ Data cleaning & preprocessing
@@ -126,4 +125,4 @@ This project transforms raw e-commerce data into clear business intelligence ins
 📊 Strategic decision-making
 
 ⭐ If you like this project, please give it a star!
-🙏 thank you 
+🙏 Thank You.
