@@ -1,3 +1,7 @@
+## 📊 Project Dashboard Preview
+
+![Dashboard Preview](images/category_sales.png)
+
 # E-Commerce Sales Exploratory Data Analysis (EDA)
 
 Author: Samruddhi Laxman Gawade
