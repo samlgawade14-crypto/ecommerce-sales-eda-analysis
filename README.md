@@ -3,6 +3,11 @@
 ## 🚀 Project Overview
 This project analyzes e-commerce sales data using Python and visualizes key business insights such as sales trends, category performance, and profit distribution.
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="images/category_sales.png" width="750">
+</p>
 # E-Commerce Sales Exploratory Data Analysis (EDA)
 
 Author: Samruddhi Laxman Gawade
